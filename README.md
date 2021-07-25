@@ -1,5 +1,6 @@
 # Syrup-Solution
-###A solution for  producing automatically in FFXIV(EP:Commanding Craftsman's Syrup)
+
+### A solution for  producing automatically in FFXIV(EP:Commanding Craftsman's Syrup)
 
 This script is inspired by [theabhishek2511/housing (extreme).ahk](https://gist.github.com/theabhishek2511/ee86786b8a283d1f4f0479fbc0463570)
 
@@ -10,7 +11,7 @@ This script is inspired by [theabhishek2511/housing (extreme).ahk](https://gist.
 **If you know what you are doing, you can also edit the script.**
 ***
 
-####How to use:
+#### How to use:
 1. Install AutoHotkey
 2. Save **Syrup.ahk** to somewhere accessible (download ZIP button, unzip etc)
 3. Right click on the file, then choose **Run script** 
