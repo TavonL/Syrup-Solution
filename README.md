@@ -16,12 +16,12 @@ This script is inspired by [theabhishek2511/housing (extreme).ahk](https://gist.
 2. Save **Syrup.ahk** to somewhere accessible (download ZIP button, unzip etc)
 3. Right click on the file, then choose **Run script** 
 4. Modify the keybings like:
-    ![image](images\readme1.png)
-    ![image](images\readme2.png)
+    ![image](images/readme1.png)
+    ![image](images/readme2.png)
 5. Modify your No.99 macro like:
-    ![image](images\readme3.png)
+    ![image](images/readme3.png)
 6. Ensure that before starting the script, your game is set in keyboard mouse mode and your game window is active such like:
-   ![The production notebook window should be active](images\readme4.png)
+   ![The production notebook window should be active](images/readme4.png)
 7.  Press Delete to start the script. 
     Press Home to pause and resume the script.
     Press F1 to close the script altogether. You can also press Home to pause, then close AHK from the system tray.
